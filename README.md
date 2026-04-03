@@ -1,6 +1,6 @@
-# EL2008 Modul 2 - Selasa - Soal 2 (Scoring per test case)
+# EL2008 Modul 1 - Senin - Soal 1 (Scoring per test case)
 
-Kerjakan file `soal2.c`.
+Kerjakan file `soal1.c`.
 
 Repo template ini memakai **GitHub Classroom custom workflow** melalui file:
 - `.github/workflows/classroom.yml`
